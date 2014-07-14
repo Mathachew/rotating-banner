@@ -7,6 +7,8 @@ A simple rotating banner with a default image that reacts to mouse events. When 
 
 Use and modify this script however you wish. Feel free to contact me on my website or reach out to me on twitter: [@mathachew](http://www.twitter.com/mathachew)
 
+The images used in this example are not my own and are trademarks of [Valve Corporation](http://www.valvesoftware.com/).
+
 ## Copyright and license
 
 &copy; 2014 Matthew Miller
