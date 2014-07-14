@@ -1,7 +1,7 @@
 Rotating Banner
 ================
 
-A simple rotating banner with a default image that reacts to mouse events. When I created this banner script in 2006, a default image was replaced when mousing over the thumbnails. After five seconds, the default banner would be displayed. Today, banners are expected to rotate on their own and react to any user interaction. If I were serious about creating my own plugin, I would change sevearl things about this script and its setup, but there are many other great options out there.
+A simple rotating banner with a default image that reacts to mouse events. When I created this banner script in 2006, a default image was replaced when mousing over the thumbnails. After five seconds, the default banner would be displayed. Today, banners are expected to rotate on their own and react to any user interaction. If I were serious about creating my own plugin, I would change several things about this script and its setup, but there are many other great options out there.
 
 [Demo](http://www.mathachew.com/sandbox/rotating-banner/).
 
